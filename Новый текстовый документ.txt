@@ -1,0 +1,31 @@
+int main()
+
+{
+	const int n = 100;
+int k, a, b;
+	int Arr[n];
+cout << "Массив A:" << endl;
+	srand(time(0));
+	/*for (int i = 0; i < 100; i++){
+
+		Arr[i] = a + rand() % (b - a + 1);
+		cout << Arr[i] << " ";
+	}*/
+//	cout << "1.Заповнити масив \n";
+		//cout << "2.Вивести масив на екран \n";
+		//cout << "3.Завдання 1 \n";
+//{
+		//case 1:
+			//функція заповнення масиву; 
+			//break;
+		//case2: //функція виводу на екран; 
+			//break;
+		//case 3://Task1();
+			//break;//функція завдання 1
+/*for (int k = 1; abs(n) > e; k++) {
+		if (k < 6) {
+			Sum_of_First_Five_Elements += n *= -x * x / (2 * k - 1) / (2 * k);
+		}
+		Sum += n *= -x * x / (2 * k - 1) / (2 * k);
+		count_Iteration++;
+	}*/
